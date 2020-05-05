@@ -9,7 +9,7 @@ p {
   margin-right: 10px;
 }
 
-figcaption {
+#img-caption {
   text-align: center;
 }
 
@@ -22,6 +22,7 @@ figcaption {
 #image {
   width: 640px;
   max-width: 100%;
+  display: block;
 }
 
 #img-div {
@@ -39,7 +40,7 @@ figcaption {
   justify-content: center;
 }
 
-#stats {
+#tribute-link {
   text-decoration: none;
   color:inherit;
   margin-top: 20px;
